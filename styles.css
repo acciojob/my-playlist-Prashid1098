@@ -12,6 +12,10 @@ body
 	padding-bottom: 10px;
 	background-color: white;
 }
+ul
+{
+	list-style-type: none;
+}
 a
 {
 	text-decoration: none;
@@ -19,6 +23,7 @@ a
 }
 .player_two
 {
+	padding-top: 10px;
 	border:1px solid black;
 	background-color: white;
 }
