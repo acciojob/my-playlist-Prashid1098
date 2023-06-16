@@ -26,4 +26,5 @@ a
 	padding-top: 10px;
 	border:1px solid black;
 	background-color: white;
+	border-collapse: collapse;
 }
